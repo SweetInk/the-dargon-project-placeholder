@@ -1,6 +1,4 @@
 the-dargon-project
 ==================
 
-We'll be closed-source until our alpha release. 
-
-If you wish to contribute, please contact ItzWar/ty [a/t] gm\a\il.
+Check out [our main repo] (http://github.com/the-dargon-project/the-dargon-project)! =)
